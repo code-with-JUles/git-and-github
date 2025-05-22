@@ -8,4 +8,5 @@ commited file
 
 - git status : to check status of your fiile 
 - git init : add .git to folder (allow git to track change )
-- git add 'file_name'/ git add * 
+- git add 'file_name'(for add specific file )/ git add *(for add all untrcked file )
+- git commit -m 'commit_mesaage'
